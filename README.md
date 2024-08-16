@@ -1,6 +1,6 @@
 # pseudo_omic_features_analysis_pipeline
  This repository processes the pseudo-omic features induced by the extended S phase in cell composition.
-
+ 
 # Getting started
 The workflow is described in the Figure.
 The Figure 1 section corresponds to the methods of WGS-related processes, such as the pipeline of WGS data, simulation S phase ratio, CNV segment calling, and visualization...
