@@ -2,7 +2,7 @@
  This repository processes the pseudo-omic features induced by the extended S phase in cell composition.
  
 # Getting started
-The workflow is described in the Figure.
+The workflow is described in the Figure folder.
    The Figure 1 section corresponds to the methods of WGS-related processes, such as the pipeline of WGS data, simulation S phase ratio, CNV segment calling, and visualization...
    The Figure 2 section corresponds to the methods of NicE-seq data analysis.
    The Figure 3 section corresponds to the methods of the DNA methylation data analysis.
